@@ -8,8 +8,8 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/JDBC-数据库连接-mediumslateblue">
-    <img src="https://img.shields.io/badge/Java--mediumslateblue">
-    <img src="https://img.shields.io/badge/Cookie-识别用户-mediumslateblue">
+    <img src="https://img.shields.io/badge/Java-项目搭建-mediumslateblue">
+    <img src="https://img.shields.io/badge/Mysql-数据库-mediumslateblue">
   <img src="https://visitor-badge.glitch.me/badge?page_id=YunboCheng4379.HTML-CSS-JS-Ajax-jQuery" >
 <br>
 <br>
