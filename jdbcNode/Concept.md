@@ -52,7 +52,7 @@ Cat c = new Cat();
 
 ![](https://gitee.com/YunboCheng/imageBad/raw/master/image/20210611163553.png)
 
-## JDBC编程六步 （需要杯）
+## JDBC编程六步 （需要背）
 
 - 第一步 ：注册驱动(作用：告诉Java程序，即将要连接哪个数据库)
 - 第二步 ：获取连接(表示JVM的进程和数据库进程之间的通道打开了，这属于进程之间的通信，重量级的。使用完之后一定要关闭)
